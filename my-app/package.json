@@ -1,0 +1,9 @@
+{
+  "name": "template-painel-admin",
+  "version": "1.0.0",
+  "description": "template painel administrativo",
+  "main": "index.js",
+  "repository": "https://github.com/lucasjndev/template-painel-admin.git",
+  "author": "Lucas de Jesus",
+  "license": "MIT"
+}
