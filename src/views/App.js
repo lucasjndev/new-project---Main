@@ -3,10 +3,10 @@ import './../css/App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header" >
+    <div className="App" > 
+      <header className="App-header"  title='Site'  >
         <img src={logo} className="App-logo" alt="logo" />
-        Sabor Quentinho! :D  .. .
+         Olá ! 😎  ⚡️   
       </header>
     </div>
   );
